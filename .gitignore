@@ -1,0 +1,4 @@
+# todo-app/.gitignore
+node_modules/
+.env
+dist/
