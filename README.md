@@ -26,28 +26,6 @@ Aplicação fullstack de gerenciamento de tarefas (To-Do List) desenvolvida com 
 - ✅ Filtrar tarefas por status (todas, pendentes, concluídas)
 - ✅ Documentação interativa da API (Swagger)
 
-## 🗂️ Estrutura do Projeto
-
-todo-app/
-├── backend/
-│ ├── prisma/
-│ │ └── schema.prisma
-│ ├── src/
-│ │ ├── controllers/
-│ │ ├── middlewares/
-│ │ ├── routes/
-│ │ ├── services/
-│ │ ├── prisma.js
-│ │ ├── swagger.js
-│ │ └── server.js
-│ └── package.json
-└── frontend/
-├── src/
-│ ├── components/
-│ ├── services/
-│ └── App.jsx
-└── package.json
-
 ## ⚙️ Como rodar localmente
 
 ### Pré-requisitos
